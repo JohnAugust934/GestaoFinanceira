@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "URL_DO_SEU_BACKEND/api/$1" 
+      "destination": "https://gestaofinanceira-backend.onrender.com/api/$1" 
     }
   ]
 }
